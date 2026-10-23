@@ -8,8 +8,11 @@ export default defineConfig({
     logo: '/images/dahu-logo.svg',
     nav: [],
     docFooter: { prev: false, next: false},
-    footer: {message: `<a href="https://librecounter.org/referer/show"><img src="https://librecounter.org/counter.svg" referrerpolicy="unsafe-url" alt="Logo for librecounter"></a>`},
+    footer: {message: `<a href="https://librecounter.org/referer/show"><img src="https://librecounter.org/counter.svg" referrerpolicy="unsafe-url" alt="Logo for librecounter" style="height: 15px;"></a>`},
     outline: { level: 'deep', label: 'Contents' },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/Dahu-Dev' }
+    ]
   },
   
   markdown: {
