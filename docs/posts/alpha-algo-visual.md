@@ -1,6 +1,5 @@
 ---
 title: Visualisation of the Alpha algorithm
-author: John Doe
 date: 2026-09-09
 ---
 
