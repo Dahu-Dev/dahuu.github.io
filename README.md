@@ -1,1 +1,1 @@
-# [[dahuu.net]]
+# [dahuu.net](https://dahuu.net)
