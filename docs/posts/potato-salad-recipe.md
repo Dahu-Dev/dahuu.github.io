@@ -1,6 +1,5 @@
 ---
 title: Potato salad recipe
-author: Jane Doe
 date: 2026-08-31
 ---
 
