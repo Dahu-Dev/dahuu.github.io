@@ -1,3 +1,8 @@
+---
+title: Writing without a rubric
+date: 2026-10-26
+---
+
 # Writing without a rubric
 Lately, I have been trying my hand at writing.
 
